@@ -1,0 +1,558 @@
+{
+  "users": [
+    {
+      "firstName": "Bekzod",
+      "lastName": "Mirzaaliyev",
+      "phone": "+998993151516",
+      "password": "123123123",
+      "position": [
+        "Backend",
+        "Starter"
+      ],
+      "groups": [
+        {
+          "groupId": 1,
+          "groupName": "F2-1063"
+        },
+        {
+          "groupId": 2,
+          "groupName": "F3-2045"
+        }
+      ],
+      "gender": "Male",
+      "grade": "Senior",
+      "branches": [
+        "Yunusobod"
+      ],
+      "statistics": {
+        "ContactWithParents": 25,
+        "Audit": 25,
+        "Ratention": 25,
+        "StudentsResult": 25
+      },
+      "status": "Active",
+      "profilePicture": "profile1.jpg",
+      "createdAt": "2025-02-06T08:00:00Z",
+      "updatedAt": "2025-02-06T08:30:00Z",
+      "role": [
+        "Teacher"
+      ],
+      "id": "fc28"
+    },
+    {
+      "userId": 1,
+      "firstName": "Erik",
+      "lastName": "Haydarov",
+      "phone": "+998993151518",
+      "password": "123123123",
+      "position": [
+        "Backend",
+        "Starter"
+      ],
+      "groups": [
+        {
+          "groupId": 1,
+          "groupName": "F2-1063"
+        },
+        {
+          "groupId": 2,
+          "groupName": "F3-2045"
+        }
+      ],
+      "gender": "Male",
+      "grade": "Senior",
+      "branches": [
+        "Yunusobod"
+      ],
+      "statistics": {
+        "ContactWithParents": 25,
+        "Audit": 25,
+        "Ratention": 25,
+        "StudentsResult": 25
+      },
+      "status": "Active",
+      "profilePicture": "profile1.jpg",
+      "createdAt": "2025-02-06T08:00:00Z",
+      "updatedAt": "2025-02-06T08:30:00Z",
+      "role": [
+        "Teacher",
+        "Academy Manager"
+      ],
+      "id": "fc28"
+    },
+    {
+      "userId": 1,
+      "firstName": "Palastin",
+      "lastName": "Geyov",
+      "phone": "+998993151517",
+      "password": "123123123",
+      "position": [
+        "Backend",
+        "Starter"
+      ],
+      "groups": [
+        {
+          "groupId": 1,
+          "groupName": "F2-1063"
+        }
+      ],
+      "gender": "Male",
+      "grade": "Senior",
+      "branches": [
+        "Yunusobod"
+      ],
+      "statistics": {
+        "ContactWithParents": 25,
+        "Audit": 25,
+        "Ratention": 25,
+        "StudentsResult": 25
+      },
+      "status": "Active",
+      "profilePicture": "profile1.jpg",
+      "createdAt": "2025-02-06T08:00:00Z",
+      "updatedAt": "2025-02-06T08:30:00Z",
+      "role": [
+        "Teacher",
+        "Academy Manager"
+      ],
+      "id": "fc28"
+    },
+    {
+      "id": "2c88",
+      "firstName": "Azimjun",
+      "lastName": "Qahramonova",
+      "phone": "909602715",
+      "password": "123123123",
+      "birthdate": "2007-12-15",
+      "position": [],
+      "groups": [],
+      "gender": "female",
+      "grade": "Junior",
+      "branches": [
+        "Yunusobod"
+      ],
+      "statistics": {
+        "ContactWithParents": 25,
+        "Audit": 25,
+        "Ratention": 25,
+        "StudentsResult": 25
+      },
+      "status": "Active",
+      "profilePicture": "https://cdn-icons-png.flaticon.com/512/7162/7162728.png",
+      "createdAt": "2025-03-22T12:22:35.600Z",
+      "updatedAt": "2025-03-22T12:22:35.600Z",
+      "role": [
+        "Teacher"
+      ]
+    },
+    {
+      "id": "2983",
+      "firstName": "Azimjun",
+      "lastName": "Qahramonova",
+      "phone": "+998909602712",
+      "password": "123123123",
+      "birthdate": "2007-12-15",
+      "position": [],
+      "groups": [],
+      "gender": "female",
+      "grade": "Junior",
+      "branches": [
+        "Yunusobod"
+      ],
+      "statistics": {
+        "ContactWithParents": 25,
+        "Audit": 25,
+        "Ratention": 25,
+        "StudentsResult": 25
+      },
+      "status": "Active",
+      "profilePicture": "https://cdn-icons-png.flaticon.com/512/7162/7162728.png",
+      "createdAt": "2025-03-22T12:22:35.600Z",
+      "updatedAt": "2025-03-22T12:22:35.600Z",
+      "role": [
+        "Teacher"
+      ]
+    },
+    {
+      "id": "0cf0",
+      "firstName": "Abubakir",
+      "lastName": "Ilhomov",
+      "phone": "+998200099944",
+      "password": "123123123",
+      "birthdate": "2024-12-20",
+      "position": [],
+      "groups": [],
+      "gender": "male",
+      "grade": "Junior",
+      "branches": [
+        "Yunusobod"
+      ],
+      "statistics": {
+        "ContactWithParents": 25,
+        "Audit": 25,
+        "Ratention": 25,
+        "StudentsResult": 25
+      },
+      "status": "Active",
+      "profilePicture": "https://cdn-icons-png.flaticon.com/512/7162/7162728.png",
+      "createdAt": "2025-04-10T12:55:04.084Z",
+      "updatedAt": "2025-04-10T12:55:04.084Z",
+      "role": [
+        "Teacher"
+      ]
+    },
+    {
+      "id": "a9b5",
+      "firstName": "Abdulloh",
+      "lastName": "Isroilov",
+      "phone": "+998959696911",
+      "password": "123123123",
+      "birthdate": "2008-06-24",
+      "position": [],
+      "groups": [],
+      "gender": "female",
+      "grade": "Junior",
+      "branches": [
+        "Yunusobod"
+      ],
+      "statistics": {
+        "ContactWithParents": 25,
+        "Audit": 25,
+        "Ratention": 25,
+        "StudentsResult": 25
+      },
+      "status": "Active",
+      "profilePicture": "https://cdn-icons-png.flaticon.com/512/7162/7162728.png",
+      "createdAt": "2025-04-12T11:29:25.146Z",
+      "updatedAt": "2025-04-12T11:29:25.146Z",
+      "role": [
+        "Teacher"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "groupName": "F2-1063",
+      "course": "MERN Stack",
+      "teacherId": "fc28",
+      "startDate": "2024-02-06",
+      "endDate": "2025-08-06",
+      "startTime": "16:20",
+      "endTime": "17:20",
+      "coin": 400,
+      "days": "even",
+      "branch": ["Yunusobod"],
+      "students": [
+        { "studentId": 1 },
+        { "studentId": 2 },
+        { "studentId": 3 },
+        { "studentId": 4 },
+        { "studentId": 5 },
+        { "studentId": 6 },
+        { "studentId": 7 },
+        { "studentId": 8 },
+        { "studentId": 9 },
+        { "studentId": 10 },
+        { "studentId": "0d39" },
+        { "studentId": "5ad4" },
+        { "studentId": "4dc8" }
+      ],
+      "id": "b0f0"
+    },
+    {
+      "groupName": "F3-2045",
+      "course": "MERN Stack",
+      "teacherId": "fc28",
+      "startDate": "2024-12-06",
+      "endDate": "2025-07-06",
+      "startTime": "15:10",
+      "endTime": "16:10",
+      "coin": 250,
+      "days": "even",
+      "branch": ["Yunusobod"],
+      "students": [
+        { "studentId": 11 },
+        { "studentId": 12 },
+        { "studentId": 13 },
+        { "studentId": 14 },
+        { "studentId": 15 },
+        { "studentId": 16 },
+        { "studentId": 17 },
+        { "studentId": 18 },
+        { "studentId": 19 }
+      ],
+      "id": "6a4d"
+    },
+    {
+      "groupName": "F1-1776",
+      "course": "MERN Stack",
+      "teacherId": 2,
+      "startDate": "2024-02-06",
+      "endDate": "2025-08-06",
+      "startTime": "15:10",
+      "endTime": "16:10",
+      "coin": 760,
+      "days": "Odd",
+      "branch": ["Yunusobod"],
+      "students": [{ "studentId": 1 }],
+      "id": "bebc"
+    },
+    {
+      "groupName": "2020",
+      "course": "MERN Stack",
+      "teacherId": "Abubakir Ilhomov",
+      "days": "even",
+      "room": "2-2",
+      "startTime": "20:00",
+      "startDate": "2025-04-03",
+      "branch": ["Yunusobod"],
+      "students": [],
+      "coin": 750,
+      "endDate": "2025-10-03",
+      "endTime": "15:00:00",
+      "createdAt": "2025-04-10T12:56:57.388Z",
+      "updatedAt": "2025-04-10T12:56:57.388Z",
+      "id": "f45a"
+    },
+    {
+      "groupName": "6969",
+      "course": "MERN Stack",
+      "teacherId": "Abdulloh Isroilov",
+      "days": "even",
+      "room": "2-1",
+      "startTime": "11:10",
+      "startDate": "2025-04-05",
+      "branch": ["Yunusobod"],
+      "students": [],
+      "coin": 750,
+      "endDate": "2025-10-05",
+      "endTime": "06:10:00",
+      "createdAt": "2025-04-12T11:31:59.954Z",
+      "updatedAt": "2025-04-12T11:31:59.954Z",
+      "id": "5685"
+    },
+    {
+      "groupName": "69",
+      "course": "MERN Stack",
+      "teacherId": "a9b5",
+      "days": "even",
+      "room": "2-1",
+      "startTime": "16:10",
+      "startDate": "2025-04-06",
+      "branch": ["Yunusobod"],
+      "students": [],
+      "coin": 750,
+      "endDate": "2025-10-06",
+      "endTime": "11:10:00",
+      "createdAt": "2025-04-12T11:36:02.544Z",
+      "updatedAt": "2025-04-12T11:36:02.544Z",
+      "id": "68a4"
+    }
+  ],
+  "students": [
+    {
+      "id": "10",
+      "firstName": "Mohira",
+      "lastName": "Qodirova",
+      "phone": "+998 90 012 34 56",
+      "gender": "Female",
+      "grade": "student",
+      "branches": [
+        "Yunusobod"
+      ],
+      "status": "Active",
+      "coin": 26,
+      "xp": 20,
+      "attendance": [
+        {
+          "date": "2025-02-06",
+          "status": true
+        },
+        {
+          "date": "08.03.2025",
+          "status": "keldi"
+        },
+        {
+          "date": "11.03.2025",
+          "status": "keldi"
+        },
+        {
+          "date": "13.03.2025",
+          "status": "keldi"
+        },
+        {
+          "date": "22.03.2025",
+          "status": "keldi"
+        },
+        {
+          "date": "05.04.2025",
+          "status": "keldi"
+        },
+        {
+          "date": "10.04.2025",
+          "status": "keldi"
+        }
+      ],
+      "profilePicture": "https://static.vecteezy.com/system/resources/thumbnails/028/149/256/small_2x/3d-user-profile-icon-png.png",
+      "createdAt": "2025-02-06T17:00:00Z",
+      "updatedAt": "2025-02-06T17:30:00Z",
+      "dailyCoin": [
+        {
+          "date": "11.03.2025",
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "c534",
+      "firstName": "Bekzod",
+      "lastName": "",
+      "phone": "993151516",
+      "birthdate": "2025-04-10",
+      "gender": "male",
+      "comments": "sex",
+      "group": "F2-1063",
+      "grade": "student",
+      "branches": [
+        "Yunusobod"
+      ],
+      "status": "Active",
+      "coin": 760,
+      "xp": 0,
+      "attendance": [],
+      "createdAt": "2025-04-10T11:29:54.346Z",
+      "updatedAt": "2025-04-10T11:29:54.346Z",
+      "dailyCoin": []
+    },
+    {
+      "id": "40ae",
+      "firstName": "Jek",
+      "lastName": "Vorobey",
+      "phone": "+998770145577",
+      "birthdate": "2008-12-25",
+      "gender": "male",
+      "comments": "silliq",
+      "group": "F2-1063",
+      "grade": "student",
+      "branches": [
+        "Yunusobod"
+      ],
+      "status": "Active",
+      "coin": 0,
+      "xp": 0,
+      "attendance": [],
+      "profilePicture": "https://static.vecteezy.com/system/resources/thumbnails/028/149/256/small_2x/3d-user-profile-icon-png.png",
+      "createdAt": "2025-04-10T11:59:02.034Z",
+      "updatedAt": "2025-04-10T11:59:02.034Z",
+      "dailyCoin": []
+    },
+    {
+      "id": "0d39",
+      "firstName": "Vosiwka",
+      "lastName": "kakawka",
+      "phone": "+998882773283",
+      "birthdate": "2008-12-12",
+      "gender": "male",
+      "comments": "Vosiwka kakawka",
+      "group": "F2-1063",
+      "grade": "student",
+      "branches": [
+        "Yunusobod"
+      ],
+      "status": "Active",
+      "coin": 100,
+      "xp": 0,
+      "attendance": [
+        {
+          "date": "10.04.2025",
+          "status": "keldi"
+        }
+      ],
+      "profilePicture": "https://static.vecteezy.com/system/resources/thumbnails/028/149/256/small_2x/3d-user-profile-icon-png.png",
+      "createdAt": "2025-04-10T12:08:19.076Z",
+      "updatedAt": "2025-04-10T12:08:19.076Z",
+      "dailyCoin": [
+        {
+          "date": "10.04.2025",
+          "amount": 100
+        }
+      ]
+    },
+    {
+      "id": "5ad4",
+      "firstName": "Shaxriyor",
+      "lastName": "Shodmonop",
+      "phone": "+998992323231",
+      "birthdate": "2009-02-02",
+      "gender": "male",
+      "comments": "lox",
+      "group": "F2-1063",
+      "grade": "student",
+      "branches": [
+        "Yunusobod"
+      ],
+      "status": "Active",
+      "coin": 0,
+      "xp": 0,
+      "balance": [],
+      "attendance": [
+        {
+          "date": "10.04.2025",
+          "status": "keldi"
+        }
+      ],
+      "profilePicture": "https://static.vecteezy.com/system/resources/thumbnails/028/149/256/small_2x/3d-user-profile-icon-png.png",
+      "createdAt": "2025-04-10T12:19:11.779Z",
+      "updatedAt": "2025-04-10T12:19:11.779Z",
+      "dailyCoin": []
+    },
+    {
+      "id": "4dc8",
+      "firstName": "Azimjun",
+      "lastName": "xuyeta",
+      "phone": "+998909145551",
+      "birthdate": "2000-09-26",
+      "gender": "male",
+      "comments": "lox",
+      "group": "F2-1063",
+      "grade": "student",
+      "branches": [
+        "Yunusobod"
+      ],
+      "status": "Active",
+      "coin": 0,
+      "xp": 0,
+      "balance": [],
+      "attendance": [],
+      "profilePicture": "https://static.vecteezy.com/system/resources/thumbnails/028/149/256/small_2x/3d-user-profile-icon-png.png",
+      "createdAt": "2025-04-10T12:27:42.896Z",
+      "updatedAt": "2025-04-10T12:27:42.897Z",
+      "dailyCoin": []
+    }
+  ],
+  "branches": [
+    {
+      "id": "1",
+      "branchName": "YUNUSOBOD",
+      "city": "Tashkent",
+      "address": "YUNUSOBOD, Tashkent, 10000",
+      "phone": "+998995555555",
+      "email": "@marsit.edu",
+      "logo": "logo1.jpg",
+      "createdAt": "2025-02-06T08:00:00Z",
+      "updatedAt": "2025-02-06T08:30:00Z"
+    },
+    {
+      "id": "2",
+      "branchName": "Qutbiniso",
+      "city": "Tashkent",
+      "address": "YUNUSOBOD, Tashkent, 10000",
+      "phone": "+998995555555",
+      "email": "@marsit.edu",
+      "logo": "logo1.jpg",
+      "createdAt": "2025-02-06T08:00:00Z",
+      "updatedAt": "2025-02-06T08:30:00Z"
+    }
+  ],
+  "course": []
+}
