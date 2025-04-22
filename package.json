@@ -4,8 +4,8 @@
   },
   "name": "backend",
   "version": "1.0.0",
-  "main": "index.js",
-  "devDependencies": {},
+  "main": "server.js",
+  "type": "module",
   "scripts": {
     "dev": "npx json-server db.json",
     "start": "node server.js"
